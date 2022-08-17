@@ -9,7 +9,7 @@ function moveu1(){
 
 function moveu2(){
     var btn = document.getElementById('comClique')
-    btn.style.top='-1   0px'
+    btn.style.top='240px'
 }
 
 var btn = document.getElementById('comClique')
